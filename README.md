@@ -108,4 +108,4 @@ npm run lint    # lint the project
 - Conversation history is stored only in the browser's `localStorage` — there is no backend
   database, so clearing your browser storage (or using "Start Fresh") resets your session.
 
-  ## Hope you enjoy your sessions ~HeartWise💖
+## Hope you enjoy your sessions ~HeartWise💖
