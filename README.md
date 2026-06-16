@@ -1,4 +1,4 @@
-# HeartWise
+# HeartWise❤️
 
 HeartWise is an AI relationship counselor you can actually talk to. It listens, asks
 clarifying questions, figures out what kind of situation you're in (wooing someone new,
@@ -6,7 +6,7 @@ going through a breakup, or untangling something complicated), and wraps up each
 with a personalized summary — insights, action items, and resources based on what you
 actually talked about.
 
-## What it does
+## What it does 💕
 
 - **Talks like a counselor, not a chatbot.** The AI reflects back what you share, validates
   how you're feeling, and asks follow-up questions instead of jumping straight to generic
@@ -31,7 +31,7 @@ actually talked about.
 | `/chat`     | The main conversation interface, with the live mode badge and streaming replies |
 | `/summary`  | AI-generated session summary, shown after you end a conversation             |
 
-## Tech stack
+## Tech stack❤️‍🩹
 
 - **[Next.js](https://nextjs.org)** (App Router) — React framework and API routes
 - **[React](https://react.dev)** — UI library
@@ -107,3 +107,5 @@ npm run lint    # lint the project
   `app/api/chat/route.ts` and `app/api/summary/route.ts`.
 - Conversation history is stored only in the browser's `localStorage` — there is no backend
   database, so clearing your browser storage (or using "Start Fresh") resets your session.
+
+  ## Hope you enjoy your sessions ~HeartWise💖
